@@ -6,6 +6,6 @@
 4. Work effectively as part of a team
   - I participated in group activities in the tghe third week of COIT11239.
 4. Communicate effectively in a professional context
-  - Cowrote a requirements specification for a university systems analysis course.
+  - This was learnt in COIT11239.
 5. Define and demonstrate conflict management and resolution strategies.
   - I particiated in a conflict management activity in week 4 of COIT11239.
